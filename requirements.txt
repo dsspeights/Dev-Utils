@@ -1,0 +1,4 @@
+Markdown==3.1.1
+GitPython==3.0.5
+Confuse==1.4.0
+PyYAML==5.4.1
